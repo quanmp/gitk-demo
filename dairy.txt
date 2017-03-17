@@ -6,3 +6,4 @@ cheese
 goat
 yogurt
 apple
+another fruit
